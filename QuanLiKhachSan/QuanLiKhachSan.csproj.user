@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="fDangNhap.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fUngDung.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcDichVu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcDoanhThu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcKhachHang.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcNhanVien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcPhong.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UcThanhToan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="fDangNhap.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fUngDung.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MyResourceDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcDichVu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcDoanhThu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcKhachHang.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcNhanVien.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcPhong.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UcThanhToan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

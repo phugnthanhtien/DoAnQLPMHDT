@@ -1,0 +1,188 @@
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\MyResourceDictionary.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\App.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.cache
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.lref
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.exe
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.deps.json
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.runtimeconfig.json
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.g.resources
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfoInputs.cache
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfo.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CopyComplete
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\refint\QuanLiKhachSan.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.genruntimeconfig.cache
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\ref\QuanLiKhachSan.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll.config
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.baml
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.g.cs
+D:\Hê quản trị cơ sở dữ liệu\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.exe
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll.config
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.deps.json
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.runtimeconfig.json
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\MyResourceDictionary.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\App.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.cache
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.lref
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.baml
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.g.resources
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfoInputs.cache
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfo.cs
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CopyComplete
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\refint\QuanLiKhachSan.dll
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.genruntimeconfig.cache
+D:\DoAnDBMS\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\ref\QuanLiKhachSan.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.exe
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll.config
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.deps.json
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.runtimeconfig.json
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\MyResourceDictionary.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\App.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.cache
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.lref
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.baml
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.g.resources
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfoInputs.cache
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfo.cs
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CopyComplete
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\refint\QuanLiKhachSan.dll
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.genruntimeconfig.cache
+D:\SEM1-Y3\DBMS\Project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\ref\QuanLiKhachSan.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.exe
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll.config
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.deps.json
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.runtimeconfig.json
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\MyResourceDictionary.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\App.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.cache
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan_MarkupCompile.lref
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fDangNhap.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\fUngDung.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDichVu.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcDoanhThu.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcKhachHang.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcNhanVien.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcPhong.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\UcThanhToan.baml
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.g.resources
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfoInputs.cache
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.AssemblyInfo.cs
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.csproj.CopyComplete
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\refint\QuanLiKhachSan.dll
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.pdb
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\QuanLiKhachSan.genruntimeconfig.cache
+D:\Nam-2\LTWeb\FInal_Project\AI-final-project\DoAnDBMS\QuanLiKhachSan\obj\Debug\net6.0-windows\ref\QuanLiKhachSan.dll
